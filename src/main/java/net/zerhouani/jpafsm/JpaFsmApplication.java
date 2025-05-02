@@ -45,12 +45,12 @@ public class JpaFsmApplication {
 
 
             try{
-                User user1= userService.authenticate("user1, "123"");
-                System.out.println(user.getUserId());
-                System.out.println(user.getUsername());
+                User user1= userService.authenticate("user12", "123");
+                System.out.println(user1.getUserId());
+                System.out.println(user1.getUsername());
                 System.out.println("Roles =>");
-                user.getRoles().forEach(role -> {
-                    System.out.println("Role =>"+role);
+                user1.getRoles().forEach(role -> {
+                    System.out.println("Role =>"+role.toString() );
                 });
             }catch (Exception e){
                 e.printStackTrace();
