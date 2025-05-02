@@ -1,15 +1,15 @@
-# Rapport de la vidéo `Use Case JPA Hibernate Spring Data Many To Many Case`
+# Rapport de la vidéo `Use Case JPA Hibernate Spring Data Many To Many Case`, réalisée par Mr.Mohamed Youssfi
 
-Cette vidéo offre une démonstration pratique de la mise en œuvre d'une relation Many-to-Many en utilisant JPA, Hibernate et Spring Data JPA. Elle m'a guidé à travers la création d'entités Java, la configuration des annotations appropriées et l'utilisation des repositories Spring Data pour gérer efficacement les relations bidirectionnelles entre entités.
+Cette vidéo offre une démonstration pratique de la mise en œuvre d'une relation Many-to-Many en utilisant JPA, Hibernate et Spring Data JPA. Elle m'a guidé à travers la création d'entités Java, la configuration des annotations appropriées et l'utilisation des repositories Spring Data pour gérer efficacement les relations bidirectionnelles entre entités. Cette application aide à comprendre comment réaliser une authentification, avec des roles, pour des utilisateurs en utilisant JPA, Hibernate et Spring Data JPA.
 
-### Lien : https://www.youtube.com/watch?v=Kfv_7m8INlU
+### Lien : [https://www.youtube.com/watch?v=Kfv_7m8INlU](https://www.youtube.com/watch?v=s6p2dE3qrsU)
 
 ### Contenu de la vidéo
-Configuration du projet : Mise en place d'un projet Spring Boot avec les dépendances nécessaires pour JPA et Hibernate.
-Définition des entités : Création de deux entités principales avec une relation Many-to-Many, en utilisant les annotations @ManyToMany et @JoinTable pour définir la table de jointure.
-Création des repositories : Utilisation de Spring Data JPA pour créer des interfaces de repository permettant les opérations CRUD sur les entités.
-Implémentation des services : Développement des services pour gérer la logique métier, incluant la gestion des relations entre entités.
-Tests et démonstration : Exécution de l'application pour démontrer le fonctionnement des relations Many-to-Many et la persistance des données.
+  -  Configuration du projet : Mise en place d'un projet Spring Boot avec les dépendances nécessaires pour JPA et Hibernate.
+  -  Définition des entités : Création de deux entités principales avec une relation Many-to-Many, en utilisant les annotations @ManyToMany et @JoinTable pour définir la table de jointure.
+  -  Création des repositories : Utilisation de Spring Data JPA pour créer des interfaces de repository permettant les opérations CRUD sur les entités.
+  -  Implémentation des services : Développement des services pour gérer la logique métier, incluant la gestion des relations entre entités.
+  -  Tests et démonstration : Exécution de l'application pour démontrer le fonctionnement des relations Many-to-Many et la persistance des données.
 
 ### Captures d'écran:
 #### Base de données :
