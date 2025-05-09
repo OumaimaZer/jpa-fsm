@@ -66,6 +66,9 @@ Cette relation est implémentée en JPA avec l’annotation @ManyToMany, et gér
 
 #### Réalisation :
 ![image](https://github.com/user-attachments/assets/80f36b22-2af5-4d83-b3eb-26e518bf8a0f)
+
+Avec exception :
+
 ![image](https://github.com/user-attachments/assets/b35773cc-f0f3-456d-934b-2a0b6e4b6ee9)
 ![image](https://github.com/user-attachments/assets/0e30758b-34c8-4a2c-a76d-efdc1340ff48)
 
