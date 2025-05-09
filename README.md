@@ -73,7 +73,8 @@ Avec exception :
 ![image](https://github.com/user-attachments/assets/0e30758b-34c8-4a2c-a76d-efdc1340ff48)
 
 
-
+### Conclusion
+Ce projet illustre une implémentation robuste de la gestion des utilisateurs et des rôles dans une application Spring Boot. Il utilise efficacement Hibernate/JPA pour la persistance des données et Spring Data JPA pour simplifier les opérations de base de données. La séparation claire des responsabilités entre les entités, les répositories et les services garantit une architecture bien structurée et facilement maintenable. L'utilisation de Lombok réduit la quantité de code boilerplate, améliorant ainsi la lisibilité et la productivité.
 
 
 
